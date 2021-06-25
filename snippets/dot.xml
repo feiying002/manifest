@@ -5,7 +5,7 @@
           fetch="https://github.com/" />
 
   <remote name="dot"
-          fetch="https://github.com/DotOS/"
+          fetch="https://github.com/feiying002/"
           review="https://review.droidontime.com/"
           revision="refs/heads/dot11" />
   
