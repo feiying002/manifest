@@ -837,7 +837,7 @@
     <!-- Some Lineage repos -->
     <include name="snippets/los.xml" />
     
-    <!-- dot OS repos -->
-    <include name="snippets/dot.xml" />
+    <!-- dot OS repos  <include name="snippets/dot.xml" />-->
+   
 
 </manifest>
